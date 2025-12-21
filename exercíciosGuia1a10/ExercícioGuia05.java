@@ -1,4 +1,4 @@
-package maratonaJava.exercíciosGuia;
+package maratonaJava.exercíciosGuia1ao10;
 
 //  Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário,
 //  calcule quantos salários mínimos esse usuário ganha e imprima na tela o resultado.

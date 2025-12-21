@@ -1,4 +1,4 @@
-package maratonaJava.exercíciosGuia;
+package maratonaJava.exercíciosGuia1ao10;
 
 /*  Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais,
     deverá somar os dois valores, caso contrário devera multiplicar A por B.

@@ -1,4 +1,4 @@
-package maratonaJava.exercíciosGuia;
+package maratonaJava.exercíciosGuia1ao10;
 
 //   Faça um algoritmo que receba um número inteiro
 //   Imprima na tela o seu antecessor e o seu sucessor

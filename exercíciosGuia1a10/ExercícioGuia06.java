@@ -1,4 +1,4 @@
-package maratonaJava.exercíciosGuia;
+package maratonaJava.exercíciosGuia1ao10;
 
 //  Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 

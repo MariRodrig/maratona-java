@@ -1,4 +1,4 @@
-package maratonaJava.exercíciosGuia;
+package maratonaJava.exercíciosGuia1ao10;
 
 /* Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura
 e imprima na tela sua condição de acordo com a tabela abaixo:

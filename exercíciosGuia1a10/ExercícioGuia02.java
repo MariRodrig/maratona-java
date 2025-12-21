@@ -1,4 +1,4 @@
-package maratonaJava.exercíciosGuia;
+package maratonaJava.exercíciosGuia1ao10;
 
 //   Faça um algoritmo para receber um número qualquer
 //   Em seguida imprima na tela se o número é par ou ímpar, positivo ou negativo.
