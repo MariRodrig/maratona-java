@@ -1,0 +1,37 @@
+package maratonaJava.objetos.ZZEstreams.test;
+
+// 01. Order Light Novel by title;
+// 02. Retrieve the first 3 title Light Novel with price less than 4;
+
+import maratonaJava.objetos.ZZEstreams.dominio.LightNovel;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+
+public class StreamTest01 {
+    private static List<LightNovel> lightNovels = new ArrayList<>(List.of(
+            new LightNovel("Tensei Shitarra", 8.99),
+            new LightNovel("Overlord", 3.99),
+            new LightNovel("Violet Envergarden", 5.99),
+            new LightNovel("No Game no Life", 2.99),
+            new LightNovel("Fullmetal Alchemist", 5.99),
+            new LightNovel("Kumo Desuga", 1.99),
+            new LightNovel("Monogatari", 4.00)
+            ));
+
+    public static void main(String[] args) {
+        lightNovels.sort(Comparator.comparing(LightNovel::getTitle));
+        List <String> titles = new ArrayList<>();
+        for (LightNovel lightNovel : lightNovels) {
+            if(lightNovel.getPrice() <= 4) {
+                titles.add(lightNovel.getTitle());
+            }
+            if (titles.size() >=3){
+                break;
+            }
+        }
+        System.out.println(lightNovels);
+        System.out.println(titles);
+    }
+}
