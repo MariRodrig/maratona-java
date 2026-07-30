@@ -12,11 +12,12 @@ This repository contains my learning journey through Java Core concepts, object-
 - Maven
 - JUnit 5
 - IntelliJ IDEA
-- Git & GitHub
+- Git and GitHub
 
 ## Topics Covered
 
 ### Java Fundamentals
+
 - Variables and Data Types
 - Operators
 - Conditional Statements
@@ -24,6 +25,7 @@ This repository contains my learning journey through Java Core concepts, object-
 - Arrays
 
 ### Object-Oriented Programming
+
 - Classes and Objects
 - Constructors
 - Encapsulation
@@ -34,6 +36,7 @@ This repository contains my learning journey through Java Core concepts, object-
 - Enums
 
 ### Java API
+
 - String
 - Wrapper Classes
 - Date and Time API
@@ -41,6 +44,7 @@ This repository contains my learning journey through Java Core concepts, object-
 - Regular Expressions
 
 ### Collections Framework
+
 - List
 - Set
 - Map
@@ -48,12 +52,14 @@ This repository contains my learning journey through Java Core concepts, object-
 - Comparable and Comparator
 
 ### Generics and Functional Programming
+
 - Generics
 - Lambda Expressions
 - Method References
 - Streams API
 
 ### Advanced Topics
+
 - Inner Classes
 - Threads
 - Concurrency
@@ -61,6 +67,7 @@ This repository contains my learning journey through Java Core concepts, object-
 - Design Patterns
 
 ### Testing
+
 - JUnit 5
 - Unit Testing
 
@@ -74,14 +81,3 @@ exerciciosGuia1a10/
 exerciciosGuia11a20/
 revisaoJavaCore/
 arquivosIniciaisDeEstudo/
-```
-
-## Purpose
-
-This repository is part of my preparation for Java Junior Developer opportunities and serves as a portfolio of my progress and practical exercises.
-
-## Author
-
-Mariana Rodrigues
-
-- GitHub: https://github.com/MariRodrig
