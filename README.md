@@ -1,18 +1,20 @@
 # Java Marathon
 
-Repository created to store my studies, exercises, and projects developed during the Java Marathon course.
+Repository created to document my Java learning journey, including exercises, examples, and practical implementations developed throughout the Java Marathon course.
 
 ## About
 
-This repository contains my learning journey through Java Core concepts, object-oriented programming, collections, streams, generics, concurrency, unit testing, and other topics commonly required for Java Junior Developer positions.
+This repository contains practical exercises covering Java fundamentals, object-oriented programming, collections, streams, generics, concurrency, exception handling, unit testing, and other important Java Core concepts.
+
+The repository is organized by topic and also includes review exercises created to reinforce the concepts studied throughout the course.
 
 ## Technologies
 
 - Java 17
-- Maven
 - JUnit 5
 - IntelliJ IDEA
-- Git and GitHub
+- Git
+- GitHub
 
 ## Topics Covered
 
@@ -22,11 +24,12 @@ This repository contains my learning journey through Java Core concepts, object-
 - Operators
 - Conditional Statements
 - Loops
-- Arrays
+- Arrays and Multidimensional Arrays
 
 ### Object-Oriented Programming
 
 - Classes and Objects
+- Methods
 - Constructors
 - Encapsulation
 - Inheritance
@@ -35,12 +38,19 @@ This repository contains my learning journey through Java Core concepts, object-
 - Abstract Classes
 - Enums
 
+### Exception Handling
+
+- Exceptions
+- Runtime Exceptions
+- Custom Exceptions
+- Try-with-resources
+
 ### Java API
 
 - String
+- StringBuilder
 - Wrapper Classes
 - Date and Time API
-- Optional
 - Regular Expressions
 
 ### Collections Framework
@@ -49,7 +59,8 @@ This repository contains my learning journey through Java Core concepts, object-
 - Set
 - Map
 - Queue
-- Comparable and Comparator
+- Comparable
+- Comparator
 
 ### Generics and Functional Programming
 
@@ -74,10 +85,12 @@ This repository contains my learning journey through Java Core concepts, object-
 ## Project Structure
 
 ```text
-introducao/
-objetos/
-exercicios/
-exerciciosGuia1a10/
-exerciciosGuia11a20/
-revisaoJavaCore/
-arquivosIniciaisDeEstudo/
+src/
+└── maratonaJava/
+    ├── arquivosIniciaisDeEstudo/
+    ├── exercicios/
+    ├── exerciciosGuia/
+    ├── introducao/
+    ├── objetos/
+    └── revisaoJavaCore/
+
